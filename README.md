@@ -12,8 +12,8 @@ This tool describes the **SDF Font JSON Editor**, a desktop application designed
 
 ### Download tool [SDF-Font-JSON-Editor](https://github.com/MrGamesKingPro/SDF-Font-JSON-Editor/releases/tag/SDF-Font-JSON-Editor)
 
+![SDF-Font-JSON-Editor](https://github.com/user-attachments/assets/f2c7dfb9-e873-4822-8059-7e32d8bb5944)
 
-![a](https://github.com/user-attachments/assets/9da5aa1f-123c-49d3-b487-c1ec960fb42b)
 
 **How to Use Each Tab:**
 
