@@ -174,7 +174,7 @@ class SdfFontPatcherApp:
     """
     def __init__(self, master):
         self.master = master
-        master.title("SDF Font Asset Patcher By MrGamesKingPro")
+        master.title("SDF Font JSON Editor By MrGamesKingPro")
         master.geometry("850x650")
         master.minsize(700, 500)
 
