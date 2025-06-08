@@ -10,7 +10,8 @@
 # SDF-Font-JSON-Editor
 This tool describes the **SDF Font JSON Editor**, a desktop application designed to modify and update JSON files that represent Signed Distance Field (SDF) Font Assets. These files are commonly used in game development (e.g., with Unity's TextMesh Pro) and contain detailed information about a font's metrics, characters, and fallback options.
 
-### Download tool SDF-Font-JSON-Editor
+### Download tool [SDF-Font-JSON-Editor](https://github.com/MrGamesKingPro/SDF-Font-JSON-Editor/releases/tag/SDF-Font-JSON-Editor)
+
 
 ![a](https://github.com/user-attachments/assets/9da5aa1f-123c-49d3-b487-c1ec960fb42b)
 
